@@ -1,6 +1,6 @@
 # Timers-in-Kernel-Linux
 
-This Jupyter Notebook is a seminar that My colleagues and I did it for a college subject abot Operational Systems.
+This Jupyter Notebook is a seminar that My colleagues and I did it for a college subject about Operational Systems.
 
 The theme was how do Timers work on Linux. The ideia was understand how the OS manipulate time for proccess and interruptions in the CPU.
 
